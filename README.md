@@ -8,7 +8,7 @@
 RichiebM3/RichiebM3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [Richie]
 
 I'm a passionate robotics enthusiast and software developer with a keen interest in embedded systems and IoT.
 
@@ -30,12 +30,4 @@ I'm always looking to collaborate on exciting projects or contribute to open-sou
 Feel free to check out my repositories and reach out if you’d like to connect!
 
 ## 📫 Find Me Online
-- [Twitter](your-twitter-link)
-- [LinkedIn](your-linkedin-link)
 
----
-
-> *Tips for Personalization:*
-> - Replace `[Your Name]` above with your actual name.
-> - Add your social media profile URLs.
-> - Adjust the skills and interests to better match your expertise.
