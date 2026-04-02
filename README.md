@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RichiebM3
-- 👀 I’m interested in creating video games
+- 👀 I’m interested in creating programs and softare that includes automation apps, andriod apps, embedded systems and video games
 - 🌱 I’m currently learning computer science and engineer
 - 💞️ I’m looking to collaborate on creating good code that is readable as a function 
 - 📫 Anyone can reach me at rip.ham85@gmail.com :-D
